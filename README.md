@@ -1,7 +1,6 @@
-# qrCodeBill
 # QR code menu app
 # Api
-[url=https://www.hizliresim.com/jl4bfzm][img]https://i.hizliresim.com/jl4bfzm.png[/img][/url]
+![enter image description here](https://raw.githubusercontent.com/0xberkay/qrMenuBillApp/main/screenshot/garsone.png)
 Get("/dashboard") // return fiber dashboard panel 
 
 Get("/api/register/:value/:key") // registering user and return menu page
